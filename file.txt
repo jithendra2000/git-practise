@@ -1,8 +1,2 @@
-Hello from today we are using the practise model here
-
-
-As we are in the practical stage so i am doing the practise of git push,pull,fetch,merge,rebase,checkout,cherrypick
-
-
-will write the terraform files here and start provisioning the resouces in the Azure platform 
-
+Hello DevOps
+Git Training
